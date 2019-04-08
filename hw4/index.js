@@ -7,10 +7,10 @@ const HOSTED_URLS = {
 };
 
 const examples = {
-  'example2':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example1':
       'Now , an attachment to Harriet Smith would have nothing to encounter .',
+  'example2':
+      'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example3':
       'Whom thus the meager Shadow answered soon .' ,
   'example4':
