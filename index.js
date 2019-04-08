@@ -7,12 +7,14 @@ const HOSTED_URLS = {
 };
 
 const examples = {
-  'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+  'example1':
+      'Now , an attachment to Harriet Smith would have nothing to encounter .',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'Whom thus the meager Shadow answered soon .' ,
+  'example4':
+      'That ' s why I say it will be all right when Walter returns .'   
 };
 
 function status(statusText) {
