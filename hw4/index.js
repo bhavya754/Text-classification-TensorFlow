@@ -14,7 +14,7 @@ const examples = {
   'example3':
       'Whom thus the meager Shadow answered soon .' ,
   'example4':
-      'That ' s why I say it will be all right when Walter returns .'   
+      'Thats why I say it will be all right when Walter returns .'   
 };
 
 function status(statusText) {
