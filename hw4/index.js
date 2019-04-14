@@ -83,6 +83,7 @@ async function loadHostedPretrainedModel(url) {
     disableLoadModelButtons();
     return model;
   } catch (err) {
+    console.log('blah')
     console.error(err);
     status('Loading pretrained model failed.');
   }
