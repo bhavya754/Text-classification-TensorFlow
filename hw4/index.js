@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example3':
-      'Whom thus the meager Shadow answered soon .' ,
+      'And thus with oars and yells the keels cut the sea .' ,
   'example4':
       'You haue done that you should be sorry for .'   
 };
